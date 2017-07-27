@@ -15,3 +15,6 @@ Functionalities:
  - Uses a virtual X server in framebuffer to avoid interaction / interruption
  due to current Desktop activity (useful for scripts)
  - Copies generated token to stdout and clipboard
+
+See also:
+ - https://hub.docker.com/r/softoken/softoken-docker/~/dockerfile/
