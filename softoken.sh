@@ -2,7 +2,7 @@
 #
 # Automatize token generation with Softoken-II (KDE flavour)
 # by Jordan Augé <jordan.auge@free.fr>
-# License: CC0 (public domain)
+# License: GPLv3
 #
 # Prerequisite:
 #  - A working version of Softoken-II installed through Wine and initialized
